@@ -10,4 +10,5 @@ langchain-experimental
 langchain-google-genai
 langchain_huggingface
 gunicorn
+huggingface_hub[hf_xet]
 -e .
