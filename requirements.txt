@@ -8,4 +8,5 @@ langchain-pinecone
 langchain-community
 langchain-experimental
 langchain-google-genai
+langchain_huggingface
 -e .
