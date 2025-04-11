@@ -51,7 +51,7 @@ MediBot/
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-repo/MediBot.git
+git clone https://github.com/MediBot/MediBot.git
 cd MediBot
 ```
 
@@ -77,14 +77,6 @@ Visit [`http://127.0.0.1:5000`](http://127.0.0.1:5000) in your browser to access
 
 ## 📺 Demo  
 📹 [Watch the demo here](Demo/MediBot.mp4)  
-
----
-
-## 🧪 Testing  
-To run tests:  
-```bash
-python test.py
-```
 
 ---
 
